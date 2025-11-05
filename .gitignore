@@ -32,3 +32,9 @@ bin/
 # IDE files
 .idea/
 *.iml
+
+# ignore compiled classes
+*.class
+# IDE files
+.idea/
+*.iml
